@@ -1,4 +1,5 @@
 import { countryItem, countryList } from './refs'
+import Notiflix from 'notiflix';
 
 function apendMarkup(data) {
     
